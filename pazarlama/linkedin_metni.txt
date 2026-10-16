@@ -1,0 +1,17 @@
+1971'de dünyada verisi olan ülkelerin yalnızca %11'inde yükseköğretimde kadınlar erkeklerin önündeydi. 2024'te bu oran %87.
+
+Bu rakam, "Üniversite kapısında kadınlar erkekleri ne zaman geçti?" sorusuyla çıktığım veri hikâyesinin ana bulgusu. Dünya Bankası'nın 200'den fazla ülke için yayımladığı brüt yükseköğretim okullaşma verisini analiz ettim ve kaydırdıkça değişen interaktif bir site hâline getirdim.
+
+Üç şey dikkatimi çekti:
+• Kadınların önde olduğu ülkelerin payı 2001'de ilk kez %50'yi aştı.
+• 2024'te verisi olan her 10 ülkenin yaklaşık 9'unda kadın oranı erkeği geçiyor.
+• Türkiye bu değişime biraz geç katıldı: kadınlar 2021'den beri erkeklerin önünde.
+
+Önemli bir not: okullaşma oranı eğitimin kalitesini ya da mezuniyeti ölçmüyor ve gördüğüm ilişki nedenini açıklamıyor. Açık soru şu: Aynı fark hangi bölümlerde ve hangi mesleklerde sürüyor?
+
+Kullandıklarım: Python (pandas) ile veri temizleme ve analiz, saf JavaScript ve SVG ile scrollytelling. Kod yazımında Claude'dan destek aldım; yorumlar bana ait.
+
+Siteyi gezin, bir ülke seçip kendi grafiğine bakın: [SİTE BAĞLANTISI]
+Kod ve notebook: [GITHUB BAĞLANTISI]
+
+#VeriAnalizi #VeriHikayesi #Scrollytelling #Python #DataViz
